@@ -1,0 +1,27 @@
+* {margin:0;padding:0}
+body {font-size:15px;font-family:Arial;line-height:22px;background:url(images/article_bg_right.jpg) repeat fixed}
+
+.fix {overflow:hidden}
+.main {width:960px;margin:0 auto;;background:#fff}
+.header {}
+.logo {}
+.mainmenu {background:powderblue;overflow:hidden;margin-top:10px}
+.mainmenu ul{margin:0;padding:0;list-style:none}
+.mainmenu ul li{float:left;border-right:1px solid #79A1A1}
+.mainmenu ul li a{display:block;text-decoration:none;padding:15px;color:#000}
+.mainmenu ul li a:hover{background:#00A551}
+.slider {}
+.maincontent {margin-top:25px}
+.sidebar {width:280px;margin-right:30px;padding:10px;float:left;margin-top: -11px}
+.sidebar ul{margin:0;padding:0;list-style:none}
+.sidebar ul li{padding:15px;border-bottom:1px solid #ddd}
+.sidebar ul li a{text-decoration:none;color:#000;background:#EDEDED}
+.sidebar ul li a:hover{color:#00A551}
+.sidebar h2 {background:#000;color:#fff;padding:10px 25px;padding-top:10px;
+margin-right:-1px;margin-left:-25px;margin-bottom:-6px;padding-top:14px}
+.content {width:630px}
+.content h1 {margin-bottom:15px;font-weight:normal;font-size:40px;font-family:Cooper
+Black;margin-top:6px}
+.content p {margin-bottom:5px}
+.footer {background:#3A3939;padding:10px}
+.footer p{color:#fff;font-size:20px}
